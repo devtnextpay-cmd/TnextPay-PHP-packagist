@@ -5,7 +5,7 @@
 #### _-Technonextpay integration example with sp-plugin-php_
  _Powered  by:_ [Technonext Pay Limited](https://Technonextpay.com.bd/)
  
-##### This is an example application made with  PHP programing language which is using Sp-plugin-php to integrate Technonextpay payment system to the application.
+##### This is an example application made with  PHP programing language which is using tnextPay-plugin-php to integrate Technonextpay payment system to the application.
 
 ## 📖 Developer Guide
 

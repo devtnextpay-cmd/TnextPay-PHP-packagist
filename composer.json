@@ -1,0 +1,31 @@
+{
+    "name": "tnextpay/tnextpay-plugin-php",
+    "description": "TechnoNextPay is a online payment gateway and easy payment solution",
+    "type": "library",
+    "version": "1.0.0",
+    "license": "MIT",
+    "keywords": [
+        "php",
+        "laravel",
+        "technonext",
+        "technonext-plugin",
+        "payment-gateway",
+        "payments",
+        "codeigniter",
+        "symphony"
+    ], 
+    "require": {
+         "php": "^7.4|^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "TechnonextPlugin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "TechnoNextPay Software Pvt Ltd",
+            "email": "support@technonext.com"
+        }
+    ]   
+}

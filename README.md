@@ -1,6 +1,6 @@
 
 
-# ![Technonextpay](https://Technonextpay.com.bd/dev/images/Technonextpay.png) PHP example application using Sp-plugin-php
+# ![Tnextpay](https://Technonextpay.com.bd/dev/images/Technonextpay.png) PHP example application using Sp-plugin-php
 
 #### _-Technonextpay integration example with sp-plugin-php_
  _Powered  by:_ [Technonext Pay Limited](https://Technonextpay.com.bd/)

@@ -86,4 +86,4 @@ This code is under the [MIT open source License](http://www.opensource.org/licen
 
 #### Please [contact](https://Technonextpay.com.bd/#contacts) with Technonextpay team for more detail.
 
-Copyright ©️2022 [TechnonexPay Limited](https://::).
+Copyright ©️2026 [TechnonexPay Limited](https://::).
